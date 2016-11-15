@@ -12,5 +12,8 @@ namespace GetSetExercise
         public string LastName { get; set; }
         public DateTime StartDate { get; set; }
         public string Email { get; set; }
+
+        //methods do something here
+        //write an list to a file? 
     }
 }

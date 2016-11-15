@@ -9,7 +9,7 @@ namespace GetSetExercise
     class Program
     {
         static void Main(string[] args)
-        {//
+        {//Call some methods and some properties
         }
     }
 }
